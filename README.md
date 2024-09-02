@@ -19,7 +19,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The app implements user authentication (e.g., session-based authentication, JWT, OAuth, etc.) to allow users to sign up, log in, and log out securely.
 - Authorization is implemented in the app. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
 - The app has at least **two data entities** in addition to the User model. At least one entity must have a relationship with the User model.
-- The app has full CRUD functionality (Create, Read, Update, Delete) for at least one data entity.
+- The app implements full CRUD functionality (Create, Read, Update, Delete) for at least two data entities.
 - The app is deployed online so that the rest of the world can use it (e.g., Heroku, Vercel, Netlify, etc.).
 
 ### Code convention
