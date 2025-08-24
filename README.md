@@ -6,7 +6,7 @@ For this project, you and your team will build a full-stack application with ful
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
-A printable version of the project requirements can be found [here](./assets/project-requirements.pdf).
+A printable version of the project requirements can be found [here](./Project%204%20-%20Capstone%20CRUD%20App%20Group%20Project%20Requirements.pdf).
 
 ## Technical requirements
 
@@ -85,4 +85,4 @@ Upon completion of your group's presentation, your instructional team will evalu
 
 In addition to the group evaluation, you will also be graded individually on this project. ***It is possible for your group as a whole to pass the project but for you not to pass individually - do not let this happen!***
 
-See the [individual contributor project requirements](../project-individual-contributor-requirements/README.md) for more details about the individual requirements.
+See the [individual contributor project requirements](./Project%204%20-%20Capstone%20CRUD%20App%20Group%20Project%20Requirements%20-%20Individual%20Contributor.pdf) for more details about the individual requirements.
